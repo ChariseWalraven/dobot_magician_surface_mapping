@@ -1,4 +1,5 @@
 # version: Python3
+from typing import Tuple
 from DobotEDU import *
 import serial
 import serial.tools.list_ports
@@ -17,8 +18,7 @@ from datetime import datetime
 
 z_sweep = -9
 file_content = {
-  "measurements": [],
-  "coordinates": []
+  "measurements": []
 }
 
 location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data\\"
@@ -59,34 +59,29 @@ def do_initial_sweep():
   mode = 2
   byte_size = 500
 
-  def measure():
+  def measure(key: str, coord: Tuple[int, int, int, int]):
     print('Measuring')
     while moving:
-      data = {}
-      data['arduino'] = arduino.readline().decode("utf-8")
-      data['time'] = str(time.time())
+      data = {
+        'distance_mm': arduino.readline().decode("utf-8"),
+        'dest': {[key]: coord},
+        'time': str(time.time())
+      }
       file_content["measurements"].append(data)
       time.sleep(0.5)
+    print('Done measuring')
 
   def move(x,y,z,r, dest):
     print("Moving to:",  dest)
     magician.ptp(mode=mode, x=x, y=y, z=z, r=r)
-    moving = False
 
-  
   for key, coord in coordinates.items():
-    t = threading.Thread(target=measure)
+    t = threading.Thread(target=measure, args=(key, coord))
     moving = True
     t.start()
-    file_content["coordinates"].append({ "pose": magician.get_pose(), "time":  str(time.time()) })
     move(*coord, key)
     moving = False
     t.join()
-
-def read_json(data: bytes):
-  # print("data: ", data)
-  str_data = data.decode('utf-8').split('\r\n')[0]
-  return json.loads(str_data) if str_data != '' else {'duration': -1, 'distance_mm': -1}
 
 
 # main code
