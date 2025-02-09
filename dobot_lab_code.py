@@ -89,6 +89,6 @@ setup()
 do_initial_sweep()
 
 dt_str = datetime.now().strftime("%d_ %m_%Y_%H_%M_%S")
-filename = f"{location}data{dt_str}.json"
+filename = f"{location}data_{dt_str}.json"
 with open(filename, "w+") as f:
   f.write(json.dumps(file_content))
