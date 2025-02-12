@@ -1,7 +1,6 @@
 # version: Python3
 from typing import Tuple
 from DobotEDU import *
-import serial
 import serial.tools.list_ports
 import time
 import json
