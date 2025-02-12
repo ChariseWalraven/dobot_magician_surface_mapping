@@ -5,8 +5,6 @@ import serial
 import serial.tools.list_ports
 import time
 import json
-import numpy as np
-import matplotlib as plt
 import threading
 
 from datetime import datetime
