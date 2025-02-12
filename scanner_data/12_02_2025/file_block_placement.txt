@@ -1,0 +1,10 @@
+data_12_02_2025_11_08_02 - no block
+data_12_02_2025_11_08_51 - top left
+data_12_02_2025_11_10_56 - top middle
+data_12_02_2025_11_12_08 - top right
+data_12_02_2025_11_13_58 - middle right
+data_12_02_2025_11_15_11 - middle
+data_12_02_2025_11_16_09 - middle left
+data_12_02_2025_11_17_40 - bottom left
+data_12_02_2025_11_18_22 - bottom middle
+data_12_02_2025_11_20_25 - bottom right
