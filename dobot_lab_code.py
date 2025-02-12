@@ -21,7 +21,7 @@ file_content = {
     "measurements": []
 }
 
-location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data\\"
+location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data"
 
 # set initial position
 # scan in steps, saving coordinates and measured distance to a list
@@ -61,12 +61,12 @@ def do_initial_sweep():
         'home': magician.get_pose()
     }
 
-    def measure(key: str, coord: Tuple[int, int, int, int], origin):
+    def measure(dest, origin):
         print('Measuring')
         while moving:
             data = {
                 'distance_mm': arduino.readline().decode("utf-8"),
-                'dest': {[key]: coord},
+                'dest': dest,
                 'origin': origin,
                 'time': str(time.time())
             }
@@ -79,14 +79,17 @@ def do_initial_sweep():
         magician.ptp(mode=mode, x=x, y=y, z=z, r=r)
 
     for key, coord in coordinates.items():
-        t = threading.Thread(target=measure, args=(key, coord, origin))
+        dest = {}
+        dest[key] = coord
+        t = threading.Thread(target=measure, args=(dest, origin))
         moving = True
         t.start()
         move(*coord, key)
         moving = False
         t.join()
 
-        origin = { [key]: coord }
+        origin = {}
+        origin = dest
 
 
 # main code
@@ -94,6 +97,7 @@ setup()
 do_initial_sweep()
 
 dt_str = datetime.now().strftime("%d_ %m_%Y_%H_%M_%S")
-filename = f"{location}data_{dt_str}.json"
+filename = f"{location}/data_{dt_str}.json"
+
 with open(filename, "w+") as f:
     f.write(json.dumps(file_content))
