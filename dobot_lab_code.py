@@ -93,7 +93,7 @@ def do_initial_sweep():
 setup()
 do_initial_sweep()
 
-dt_str = datetime.now().strftime("%d_ %m_%Y_%H_%M_%S")
+dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
 filename = f"{location}/data_{dt_str}.json"
 
 with open(filename, "w+") as f:
