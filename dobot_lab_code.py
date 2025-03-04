@@ -14,9 +14,7 @@ from datetime import datetime
 #print([(p.device, p.description) for p in ports])\
 
 z_sweep = -9
-file_content = {
-    "measurements": []
-}
+file_content = []
 
 location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data"
 
@@ -67,7 +65,7 @@ def do_initial_sweep():
                 'origin': origin,
                 'time': str(time.time())
             }
-            file_content["measurements"].append(data)
+            file_content.append(data)
             time.sleep(0.5)
         print('Done measuring')
 
