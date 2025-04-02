@@ -1,1 +1,3896 @@
-{"measurements": [{"distance_mm": "", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363954.4028285"}, {"distance_mm": "", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363955.0250008"}, {"distance_mm": "", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363955.6510487"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363956.1609523"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363956.6742783"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363957.1885731"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363957.7008278"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363958.2142446"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363958.7277257"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363959.242876"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363959.7542663"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363960.2695308"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363960.7849522"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363961.305208"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363961.8162575"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363962.3338857"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363962.8480246"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363963.3605928"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363963.8755784"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363964.387427"}, {"distance_mm": "73\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363964.901398"}, {"distance_mm": "74\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363965.4157324"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363965.9275792"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363966.437153"}, {"distance_mm": "83\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363966.9502363"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363967.466056"}, {"distance_mm": "83\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363967.9764879"}, {"distance_mm": "83\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363968.4921782"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363969.004462"}, {"distance_mm": "83\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363969.5162113"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363970.022254"}, {"distance_mm": "82\r\n", "dest": {"bottom_right": [172, -13, -9, 0]}, "origin": {"home": {"jointAngle": [74.09, 59.2, 29.23, 4.72], "r": 78.81, "x": 83.31, "y": 292.31, "z": -2.65}}, "time": "1739363970.5321112"}, {"distance_mm": "83\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363971.0520604"}, {"distance_mm": "82\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363971.565708"}, {"distance_mm": "83\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363972.0793135"}, {"distance_mm": "83\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363972.5899098"}, {"distance_mm": "85\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363973.099505"}, {"distance_mm": "86\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363973.6054757"}, {"distance_mm": "85\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363974.114887"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363974.6286557"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363975.1363342"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363975.6446753"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363976.1540713"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363976.6678295"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363977.1853192"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363977.6982088"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363978.2123625"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363978.730207"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363979.24161"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363979.7540474"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363980.263673"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363980.777222"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363981.2916875"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363981.8017583"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363982.3189046"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363982.8315496"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363983.3410752"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363983.8541138"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363984.3719068"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363984.8850045"}, {"distance_mm": "76\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363985.395975"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363985.9091065"}, {"distance_mm": "77\r\n", "dest": {"top_left": [146, 292, -9, 0]}, "origin": {"bottom_right": [172, -13, -9, 0]}, "time": "1739363986.4202106"}, {"distance_mm": "76\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363986.9292924"}, {"distance_mm": "77\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363987.4387946"}, {"distance_mm": "76\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363987.9532237"}, {"distance_mm": "77\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363988.4626396"}, {"distance_mm": "76\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363988.9742715"}, {"distance_mm": "85\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363989.488068"}, {"distance_mm": "86\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363990.0009902"}, {"distance_mm": "85\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363990.5109394"}, {"distance_mm": "86\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363991.0225098"}, {"distance_mm": "86\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363991.5364609"}, {"distance_mm": "85\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363992.0536416"}, {"distance_mm": "86\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363992.5645924"}, {"distance_mm": "86\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363993.0754416"}, {"distance_mm": "79\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363993.588119"}, {"distance_mm": "80\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363994.1040924"}, {"distance_mm": "79\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363994.618328"}, {"distance_mm": "80\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363995.1281285"}, {"distance_mm": "80\r\n", "dest": {"bottom_left": [19, 192, -9, 88]}, "origin": {"top_left": [146, 292, -9, 0]}, "time": "1739363995.6371748"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363996.1494272"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363996.6650097"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363997.1801608"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363997.6942942"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363998.2110965"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363998.728847"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363999.2424781"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739363999.758013"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364000.2701082"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364000.7820206"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364001.292255"}, {"distance_mm": "80\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364001.8073387"}, {"distance_mm": "79\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364002.3251035"}, {"distance_mm": "71\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364002.8402658"}, {"distance_mm": "50\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364003.3552663"}, {"distance_mm": "42\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364003.871918"}, {"distance_mm": "40\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364004.383765"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364004.8987057"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364005.4107232"}, {"distance_mm": "31\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364005.9273272"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364006.4386232"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364006.9494774"}, {"distance_mm": "31\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364007.4573636"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364007.9705753"}, {"distance_mm": "33\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364008.4822552"}, {"distance_mm": "40\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364008.9971592"}, {"distance_mm": "41\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364009.514418"}, {"distance_mm": "41\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364010.0235486"}, {"distance_mm": "42\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364010.5346441"}, {"distance_mm": "41\r\n", "dest": {"top_right": [294, 80, -9, 18.9]}, "origin": {"bottom_left": [19, 192, -9, 88]}, "time": "1739364011.0495095"}, {"distance_mm": "32\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364011.557948"}, {"distance_mm": "33\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364012.0703285"}, {"distance_mm": "32\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364012.585301"}, {"distance_mm": "32\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364013.0912185"}, {"distance_mm": "33\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364013.609866"}, {"distance_mm": "33\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364014.1173902"}, {"distance_mm": "31\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364014.6305053"}, {"distance_mm": "33\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364015.1415641"}, {"distance_mm": "41\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364015.6535056"}, {"distance_mm": "40\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364016.1745205"}, {"distance_mm": "41\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364016.6856215"}, {"distance_mm": "45\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364017.1952329"}, {"distance_mm": "45\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364017.7079735"}, {"distance_mm": "45\r\n", "dest": {"top_middle": [225, 188, -9, 71]}, "origin": {"top_right": [294, 80, -9, 18.9]}, "time": "1739364018.2193367"}, {"distance_mm": "43\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364018.736752"}, {"distance_mm": "45\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364019.2473001"}, {"distance_mm": "45\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364019.7609236"}, {"distance_mm": "45\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364020.2740324"}, {"distance_mm": "45\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364020.781612"}, {"distance_mm": "43\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364021.2921262"}, {"distance_mm": "53\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364021.806599"}, {"distance_mm": "52\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364022.320843"}, {"distance_mm": "53\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364022.8354664"}, {"distance_mm": "61\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364023.3515658"}, {"distance_mm": "62\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364023.8646464"}, {"distance_mm": "70\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364024.372542"}, {"distance_mm": "89\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364024.8811085"}, {"distance_mm": "82\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364025.3924809"}, {"distance_mm": "83\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364025.9036815"}, {"distance_mm": "74\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364026.42005"}, {"distance_mm": "73\r\n", "dest": {"bottom_middle": [98, 88, -10, 46]}, "origin": {"top_middle": [225, 188, -9, 71]}, "time": "1739364026.9353032"}, {"distance_mm": "65\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364027.4440145"}, {"distance_mm": "64\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364027.957089"}, {"distance_mm": "74\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364028.467552"}, {"distance_mm": "73\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364028.9812493"}, {"distance_mm": "80\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364029.49274"}, {"distance_mm": "83\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364030.005611"}, {"distance_mm": "73\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364030.5195353"}, {"distance_mm": "74\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364031.0324428"}, {"distance_mm": "73\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364031.5449142"}, {"distance_mm": "65\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364032.0588932"}, {"distance_mm": "64\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364032.5684679"}, {"distance_mm": "65\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364033.0795357"}, {"distance_mm": "64\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364033.5883205"}, {"distance_mm": "65\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364034.1028547"}, {"distance_mm": "73\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364034.616068"}, {"distance_mm": "65\r\n", "dest": {"right_middle": [241, 26, -9, 11]}, "origin": {"bottom_middle": [98, 88, -10, 46]}, "time": "1739364035.1228323"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364035.6345727"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364036.145034"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364036.6587024"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364037.1712291"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364037.686886"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364038.198064"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364038.7110927"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364039.2273245"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364039.7407782"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364040.2520194"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364040.7653325"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364041.279191"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364041.7924972"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364042.308592"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364042.8184726"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364043.337653"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364043.8475013"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364044.3604422"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364044.8742921"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364045.3853347"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364045.8981438"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364046.4122882"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364046.9252696"}, {"distance_mm": "64\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364047.4342947"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364047.9477973"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364048.4625096"}, {"distance_mm": "65\r\n", "dest": {"left_middle": [82, 242, -9, 76]}, "origin": {"right_middle": [241, 26, -9, 11]}, "time": "1739364048.9729464"}]}
+{
+  "measurements": [
+    {
+      "distance_mm": "",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363954.4028285"
+    },
+    {
+      "distance_mm": "",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363955.0250008"
+    },
+    {
+      "distance_mm": "",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363955.6510487"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363956.1609523"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363956.6742783"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363957.1885731"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363957.7008278"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363958.2142446"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363958.7277257"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363959.242876"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363959.7542663"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363960.2695308"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363960.7849522"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363961.305208"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363961.8162575"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363962.3338857"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363962.8480246"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363963.3605928"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363963.8755784"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363964.387427"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363964.901398"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363965.4157324"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363965.9275792"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363966.437153"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363966.9502363"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363967.466056"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363967.9764879"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363968.4921782"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363969.004462"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363969.5162113"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363970.022254"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "home": {
+          "jointAngle": [
+            74.09,
+            59.2,
+            29.23,
+            4.72
+          ],
+          "r": 78.81,
+          "x": 83.31,
+          "y": 292.31,
+          "z": -2.65
+        }
+      },
+      "time": "1739363970.5321112"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363971.0520604"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363971.565708"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363972.0793135"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363972.5899098"
+    },
+    {
+      "distance_mm": "85\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363973.099505"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363973.6054757"
+    },
+    {
+      "distance_mm": "85\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363974.114887"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363974.6286557"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363975.1363342"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363975.6446753"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363976.1540713"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363976.6678295"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363977.1853192"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363977.6982088"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363978.2123625"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363978.730207"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363979.24161"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363979.7540474"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363980.263673"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363980.777222"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363981.2916875"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363981.8017583"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363982.3189046"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363982.8315496"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363983.3410752"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363983.8541138"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363984.3719068"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363984.8850045"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363985.395975"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363985.9091065"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "origin": {
+        "bottom_right": [
+          172,
+          -13,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363986.4202106"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363986.9292924"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363987.4387946"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363987.9532237"
+    },
+    {
+      "distance_mm": "77\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363988.4626396"
+    },
+    {
+      "distance_mm": "76\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363988.9742715"
+    },
+    {
+      "distance_mm": "85\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363989.488068"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363990.0009902"
+    },
+    {
+      "distance_mm": "85\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363990.5109394"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363991.0225098"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363991.5364609"
+    },
+    {
+      "distance_mm": "85\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363992.0536416"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363992.5645924"
+    },
+    {
+      "distance_mm": "86\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363993.0754416"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363993.588119"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363994.1040924"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363994.618328"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363995.1281285"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "origin": {
+        "top_left": [
+          146,
+          292,
+          -9,
+          0
+        ]
+      },
+      "time": "1739363995.6371748"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363996.1494272"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363996.6650097"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363997.1801608"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363997.6942942"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363998.2110965"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363998.728847"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363999.2424781"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739363999.758013"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364000.2701082"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364000.7820206"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364001.292255"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364001.8073387"
+    },
+    {
+      "distance_mm": "79\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364002.3251035"
+    },
+    {
+      "distance_mm": "71\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364002.8402658"
+    },
+    {
+      "distance_mm": "50\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364003.3552663"
+    },
+    {
+      "distance_mm": "42\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364003.871918"
+    },
+    {
+      "distance_mm": "40\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364004.383765"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364004.8987057"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364005.4107232"
+    },
+    {
+      "distance_mm": "31\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364005.9273272"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364006.4386232"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364006.9494774"
+    },
+    {
+      "distance_mm": "31\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364007.4573636"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364007.9705753"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364008.4822552"
+    },
+    {
+      "distance_mm": "40\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364008.9971592"
+    },
+    {
+      "distance_mm": "41\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364009.514418"
+    },
+    {
+      "distance_mm": "41\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364010.0235486"
+    },
+    {
+      "distance_mm": "42\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364010.5346441"
+    },
+    {
+      "distance_mm": "41\r\n",
+      "dest": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "origin": {
+        "bottom_left": [
+          19,
+          192,
+          -9,
+          88
+        ]
+      },
+      "time": "1739364011.0495095"
+    },
+    {
+      "distance_mm": "32\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364011.557948"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364012.0703285"
+    },
+    {
+      "distance_mm": "32\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364012.585301"
+    },
+    {
+      "distance_mm": "32\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364013.0912185"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364013.609866"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364014.1173902"
+    },
+    {
+      "distance_mm": "31\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364014.6305053"
+    },
+    {
+      "distance_mm": "33\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364015.1415641"
+    },
+    {
+      "distance_mm": "41\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364015.6535056"
+    },
+    {
+      "distance_mm": "40\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364016.1745205"
+    },
+    {
+      "distance_mm": "41\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364016.6856215"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364017.1952329"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364017.7079735"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "origin": {
+        "top_right": [
+          294,
+          80,
+          -9,
+          18.9
+        ]
+      },
+      "time": "1739364018.2193367"
+    },
+    {
+      "distance_mm": "43\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364018.736752"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364019.2473001"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364019.7609236"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364020.2740324"
+    },
+    {
+      "distance_mm": "45\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364020.781612"
+    },
+    {
+      "distance_mm": "43\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364021.2921262"
+    },
+    {
+      "distance_mm": "53\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364021.806599"
+    },
+    {
+      "distance_mm": "52\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364022.320843"
+    },
+    {
+      "distance_mm": "53\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364022.8354664"
+    },
+    {
+      "distance_mm": "61\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364023.3515658"
+    },
+    {
+      "distance_mm": "62\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364023.8646464"
+    },
+    {
+      "distance_mm": "70\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364024.372542"
+    },
+    {
+      "distance_mm": "89\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364024.8811085"
+    },
+    {
+      "distance_mm": "82\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364025.3924809"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364025.9036815"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364026.42005"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "origin": {
+        "top_middle": [
+          225,
+          188,
+          -9,
+          71
+        ]
+      },
+      "time": "1739364026.9353032"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364027.4440145"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364027.957089"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364028.467552"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364028.9812493"
+    },
+    {
+      "distance_mm": "80\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364029.49274"
+    },
+    {
+      "distance_mm": "83\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364030.005611"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364030.5195353"
+    },
+    {
+      "distance_mm": "74\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364031.0324428"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364031.5449142"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364032.0588932"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364032.5684679"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364033.0795357"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364033.5883205"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364034.1028547"
+    },
+    {
+      "distance_mm": "73\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364034.616068"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "origin": {
+        "bottom_middle": [
+          98,
+          88,
+          -10,
+          46
+        ]
+      },
+      "time": "1739364035.1228323"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364035.6345727"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364036.145034"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364036.6587024"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364037.1712291"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364037.686886"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364038.198064"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364038.7110927"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364039.2273245"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364039.7407782"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364040.2520194"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364040.7653325"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364041.279191"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364041.7924972"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364042.308592"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364042.8184726"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364043.337653"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364043.8475013"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364044.3604422"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364044.8742921"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364045.3853347"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364045.8981438"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364046.4122882"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364046.9252696"
+    },
+    {
+      "distance_mm": "64\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364047.4342947"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364047.9477973"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364048.4625096"
+    },
+    {
+      "distance_mm": "65\r\n",
+      "dest": {
+        "left_middle": [
+          82,
+          242,
+          -9,
+          76
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          241,
+          26,
+          -9,
+          11
+        ]
+      },
+      "time": "1739364048.9729464"
+    }
+  ]
+}
