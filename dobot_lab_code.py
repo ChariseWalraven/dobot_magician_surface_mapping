@@ -27,7 +27,7 @@ coordinates = {
     "bottom_left": (19, 192, z_sweep, 88),
     "top_right": (294, 80, z_sweep, 18.9),
     "top_middle": (225, 188, z_sweep, 71),
-    "bottom_middle": (98, 88, -10, 46),
+    "bottom_middle": (98, 88, -10, 46),  # <- not sure why different, maybe it made a weird noise or errored at -9?
     "right_middle": (241, 26, z_sweep, 11),
     "left_middle": (82, 242, z_sweep, 76),
 }
@@ -37,7 +37,8 @@ arduino = serial.Serial(port='COM4', baudrate=9600, timeout=0.1)
 
 
 def print_pose():
-    print( magician.get_pose())
+    """Prints the current coordinates/pose of the Dobot Magician"""
+    print(magician.get_pose())
 
 
 def setup():
@@ -46,6 +47,7 @@ def setup():
 
 
 def go_home():
+    """Go to the home position"""
     magician.ptp(mode=0, x=200, y=0, z=100,  r=0)
 
 
@@ -57,6 +59,7 @@ def do_initial_sweep():
     }
 
     def measure(dest, origin):
+        """Measure distance while moving"""
         print('Measuring')
         while moving:
             data = {
@@ -76,23 +79,27 @@ def do_initial_sweep():
     for key, coord in coordinates.items():
         dest = {}
         dest[key] = coord
+        # Start a thread so we can read sensor data and move at the same time
         t = threading.Thread(target=measure, args=(dest, origin))
-        moving = True
+        moving = True  # Needed for measure function (above), do not delete
         t.start()
         move(*coord, key)
         moving = False
         t.join()
 
-        origin = {}
+        origin = {}  # <- not sure why I did this, if the program runs the same without it, then it can be deleted.
         origin = dest
 
 
 # main code
+# TODO: maybe add __name__ == __main__ check? Would follow Python code conventions,
+#       but not sure if helpful in current context specifically.
 setup()
 do_initial_sweep()
 
 dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
 filename = f"{location}/data_{dt_str}.json"
 
+# write data to scanner data folder (see location at top of file).
 with open(filename, "w+") as f:
     f.write(json.dumps(file_content))
