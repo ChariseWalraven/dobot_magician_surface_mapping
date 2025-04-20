@@ -53,18 +53,25 @@ def transform_json_to_flat_csv(fp: Path):
 
 if __name__ == '__main__':
     # get all file_paths in scanner data dir
-    scanner_root = Path('./scanner_data/')
-    # get all json files in all subdirectories
+    scanner_data_root = Path('./scanner_data')
+    # get all json files in all subdirectories in directory 'scanner_data'
     # NOTE: we're assuming all the subdirectories contain data files,
     #       and all the files are json and in the same format.
-    scanner_files = [f for x in scanner_root.iterdir() if x.is_dir() for f in x.iterdir() if
-                     f.is_file() and str(f).endswith('.json')]
 
-    print(scanner_files)
+    # get all subdirectories in root data directory
+    scanner_data_dirs = [d for d in scanner_data_root.iterdir() if d.is_dir()]
 
-    for scanner_file in scanner_files:
+    # get all json files in all subdirectories
+    scanner_data_files = [f for d in scanner_data_dirs for f in d.iterdir() if
+                          f.is_file() and str(f).endswith('.json')]
+
+    print(f'Transforming {len(scanner_data_files)} files.')
+    for (i, scanner_file) in enumerate(scanner_data_files):
         try:
+            print(f'Transforming file ({i+1}): {scanner_file}')
             transform_json_to_flat_csv(scanner_file)
-        except JSONDecodeError as e:
+        except json.JSONDecodeError as e:
             print('error in file:', scanner_file)
             print(e)
+
+    print('Done transforming data.')
