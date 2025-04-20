@@ -10,8 +10,7 @@ pd.set_option('display.max_columns', None)
 
 
 def transform_json_to_flat_csv(fp: Path):
-    """Transforms the given json file into a csv with the data flattened"""
-
+    """Transforms the given json file into a csv with the data flattened instead of nested"""
     ofp, dfp = str(fp), str(fp).split('.')[0] + '.csv'
 
     with open(ofp) as f:
@@ -30,6 +29,7 @@ def transform_json_to_flat_csv(fp: Path):
 
             return location[list(location.keys())[0]]
 
+    # flatten origin key, x, y, z, and r coordinates
     df['origin_key'] = df.loc[:, 'origin'].transform(lambda x: list(x.keys())[0])
     df['origin'] = df.loc[:, 'origin'].transform(lambda x: transform_location(location=x))
     df['origin_x'] = df.loc[:, 'origin'].transform(lambda x: x[0])
@@ -37,6 +37,7 @@ def transform_json_to_flat_csv(fp: Path):
     df['origin_z'] = df.loc[:, 'origin'].transform(lambda x: x[2])
     df['origin_r'] = df.loc[:, 'origin'].transform(lambda x: x[3])
 
+    # flatten destination key, x, y, z, and r coordinates
     df['dest_key'] = df.loc[:, 'dest'].transform(lambda x: list(x.keys())[0])
     df['dest'] = df.loc[:, 'dest'].transform(lambda x: transform_location(location=x))
     df['dest_x'] = df.loc[:, 'dest'].transform(lambda x: x[0])
@@ -44,6 +45,7 @@ def transform_json_to_flat_csv(fp: Path):
     df['dest_z'] = df.loc[:, 'dest'].transform(lambda x: x[2])
     df['dest_r'] = df.loc[:, 'dest'].transform(lambda x: x[3])
 
+    # clean up return characters in distance measurement
     df['distance_mm'] = df.loc[:, 'distance_mm'].transform(lambda x: x if len(x) == 0 else x.split('\r')[0])
 
     df.to_csv(dfp, index=False)
