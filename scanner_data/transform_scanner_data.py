@@ -1,16 +1,11 @@
-from idlelib.pyparse import trans
-from json import JSONDecodeError
-
-import pandas as pd
 import json
+import pandas as pd
 
 from pathlib import Path
 
 # setup
 pd.options.mode.copy_on_write = True
 pd.set_option('display.max_columns', None)
-
-
 # end setup
 
 
