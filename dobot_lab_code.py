@@ -13,7 +13,7 @@ from datetime import datetime
 
 #print([(p.device, p.description) for p in ports])\
 
-z_sweep = -9
+z_sweep = -20
 file_content = []
 
 location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data"
@@ -22,14 +22,14 @@ location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data"
 # scan in steps, saving coordinates and measured distance to a list
 # plot list at end of scan
 coordinates = {
-    "bottom_right": (172, -13, z_sweep, 0),
-    "top_left": (146, 292, z_sweep, 0),
-    "bottom_left": (19, 192, z_sweep, 88),
-    "top_right": (294, 80, z_sweep, 18.9),
-    "top_middle": (225, 188, z_sweep, 71),
-    "bottom_middle": (98, 88, -10, 46),  # <- not sure why different, maybe it made a weird noise or errored at -9?
-    "right_middle": (241, 26, z_sweep, 11),
-    "left_middle": (82, 242, z_sweep, 76),
+    "bottom_right": (141, -126, z_sweep, -42),
+    "top_left": (269, 155, z_sweep, 30),
+    "bottom_left": (113, 142, z_sweep, 51),
+    "top_right": (283, -111, z_sweep, -21),
+    "top_middle": (274, 20, z_sweep, 4),
+    "bottom_middle": (129, 6, z_sweep, 3), 
+    "right_middle": (206, -129, z_sweep, -32),
+    "left_middle": (197, 151, z_sweep, 37),
 }
 
 
@@ -95,7 +95,10 @@ def do_initial_sweep():
 # TODO: maybe add __name__ == __main__ check? Would follow Python code conventions,
 #       but not sure if helpful in current context specifically.
 setup()
+
+go_home() 
 do_initial_sweep()
+go_home()
 
 dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
 filename = f"{location}/data_{dt_str}.json"
