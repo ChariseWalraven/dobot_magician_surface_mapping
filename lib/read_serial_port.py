@@ -34,7 +34,7 @@ if __name__ == '__main__':
     arduino = serial.Serial(port=port, baudrate=9600, timeout=0.1)
 
     print('Connected.')
-    input('Press any key to start reading data')
+    input('Press enter to start reading data')
     try:
         print('Reading data...')
         while read_data:
