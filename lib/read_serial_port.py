@@ -1,25 +1,63 @@
 # Importing Libraries
-import serial
-# import serial.tools.list_ports
+import serial.tools.list_ports
 import time
-import json
+from datetime import datetime
+import os
+
 # check ports automatically - not needed, we can set it manually to the correct port,
 # but it is helpful to check which port is correct
-# ports = list(serial.tools.list_ports.comports())
+read_data = True
+data_dir = '/Users/charise/code/robot-arm/dobot_magician_surface_mapper/test_data'
 
-# arduino_ports = [
-#     p.device
-#     for p in serial.tools.list_ports.comports()
-#     if 'IOUSBHostDevice' in p.description
-# ]
+if __name__ == '__main__':
+    log_lines = []
+    dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+    filename = f"{data_dir}/data_{dt_str}.txt"
+    arduino_ports = []
 
-arduino = serial.Serial(port='/dev/cu.usbmodem13301', baudrate=9600, timeout=0.1)
+    print('Finding arduino port...')
+    while len(arduino_ports) <= 0:
+        ports = list(serial.tools.list_ports.comports())
 
-def read_json(data: bytes):
-    str_data = data.decode('utf-8').split('\r\n')[0]
-    return json.loads(str_data) if str_data != '' else {'duration': -1, 'distance_mm': -1}
+        arduino_ports = [
+            p.device
+            for p in serial.tools.list_ports.comports()
+            if 'IOUSBHostDevice' in p.description
+        ]
+        # print('Arduino ports:', arduino_ports)
 
-while True:
-    data = read_json(arduino.readline())
-    print(data['distance_mm'])
-    time.sleep(0.5)
+
+        time.sleep(0.5)
+
+    print('found port, connecting...')
+    port = arduino_ports[0]
+
+    arduino = serial.Serial(port=port, baudrate=9600, timeout=0.1)
+
+    print('Connected.')
+    input('Press any key to start reading data')
+    try:
+        print('Reading data...')
+        while read_data:
+            data = arduino.readline().decode('utf-8').split('\r\n')[0]
+
+            now = datetime.now()
+            timestamp = now.strftime('%H:%M:%S:%f')
+            log = f'data: {data}, timestamp: {timestamp}\n'
+            log_lines.append(log)
+
+            print(log, end='')
+            # TODO: sync delay time with arduino via serial comm? maybe that way the
+            #       data I'm reading will be formatted better and make more sense?
+            time.sleep(0.05) #50ms
+    except KeyboardInterrupt:
+        print('User interrupted, stopped reading serial port and will write data log...')
+
+    comment = input('Enter comment for top of file:')
+    with open(filename, 'w+') as f:
+        file_content = log_lines
+        if comment is not None:
+            file_content.insert(0, f'{comment}\n')
+        f.writelines(file_content)
+
+    print('Wrote data log, program complete.')
