@@ -5,11 +5,24 @@ import time
 from datetime import datetime
 import re
 
-read_data = True
 data_dir = '/Users/charise/code/robot-arm/dobot_magician_surface_mapper/test_data'
 
+z_sweep = -20
+
+coordinates = [
+    {"dest": "bottom_right", "coord": (141, -126, z_sweep, -42)},
+    {"dest": "top_left", "coord": (269, 155, z_sweep, 30)},
+    {"dest": "bottom_left", "coord": (113, 142, z_sweep, 51)},
+    {"dest": "top_right", "coord": (283, -111, z_sweep, -21)},
+    {"dest": "top_middle", "coord": (274, 20, z_sweep, 4)},
+    {"dest": "bottom_middle", "coord": (129, 6, z_sweep, 3)},
+    {"dest": "right_middle", "coord": (206, -129, z_sweep, -32)},
+    {"dest": "left_middle", "coord": (197, 151, z_sweep, 37)},
+]
+
+
 if __name__ == '__main__':
-    log_lines = []
+    measurements = []
     dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
     filename = f"{data_dir}/data_{dt_str}.json"
     arduino_ports = []
@@ -23,8 +36,6 @@ if __name__ == '__main__':
             for p in serial.tools.list_ports.comports()
             if 'IOUSBHostDevice' in p.description
         ]
-        # print('Arduino ports:', arduino_ports)
-
 
         time.sleep(0.5)
 
@@ -35,9 +46,23 @@ if __name__ == '__main__':
 
     print('Connected.')
     input('Press enter to start reading data')
-    try:
-        print('Reading data...')
-        while read_data:
+    print('Reading data...')
+    read_data = True
+    leg = 0
+    # NOTE: jointAngle is bogus, I don't use it. It's just there so the simulation is the same as the real thing
+    origin = {'home': {"jointAngle": [71.28, 44.09, 46.12, 4.72], "r": 0.0, "x": 200.0, "y": 0.0, "z": -20.0}}
+    while read_data:
+        try:
+
+            if leg > 0:
+                prev_leg = leg - 1
+                origin = { coordinates[prev_leg]["dest"]:  list(coordinates[prev_leg]["coord"])}
+
+            dest_name = coordinates[leg]["dest"]
+            coords = coordinates[leg]["coord"]
+            dest = { str(dest_name):  list(coords)}
+            print(f'Moving to {dest_name} from {list(origin.keys())[0]}')
+            print('coords:', coords)
             data = arduino.readline().decode('utf-8').split('\r\n')[0]
 
             now = datetime.now()
@@ -52,28 +77,30 @@ if __name__ == '__main__':
                 kvp = s.split(":")
                 data_obj[str(kvp[0])] = int(kvp[1])
 
-
-            print(data, data_obj)
-
-            log = {
+            measurement = {
                 **data_obj,
                 "timestamp": timestamp,
+                "dest": dest,
+                "origin": origin
             }
 
-            log_lines.append(log)
+            measurements.append(measurement)
 
-            print(json.dumps(log, ensure_ascii=False))
+            print(json.dumps(measurement, ensure_ascii=False))
             # TODO: sync delay time with arduino via serial comm? maybe that way the
             #       data I'm reading will be formatted better and make more sense?
             time.sleep(0.05) #50ms
-    except KeyboardInterrupt:
-        print('User interrupted, stopped reading serial port and will write data log...')
+        except KeyboardInterrupt:
+            u_in = input('User interrupted, press return to start the next movement, or interrupt again to exit the program without completing the measurements')
+            leg += 1
+            if leg > (len(coordinates) - 1):
+                break
 
     comment = input('Enter comment for top of file:')
     with open(filename, 'w+') as f:
         file_content = {
             "comment": comment,
-            "log": log_lines
+            "measurements": measurements
         }
 
         f.writelines(json.dumps(file_content, indent=2, ensure_ascii=False))
