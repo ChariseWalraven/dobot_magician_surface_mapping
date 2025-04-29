@@ -1,18 +1,17 @@
 # Importing Libraries
+import json
 import serial.tools.list_ports
 import time
 from datetime import datetime
-import os
+import re
 
-# check ports automatically - not needed, we can set it manually to the correct port,
-# but it is helpful to check which port is correct
 read_data = True
 data_dir = '/Users/charise/code/robot-arm/dobot_magician_surface_mapper/test_data'
 
 if __name__ == '__main__':
     log_lines = []
     dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
-    filename = f"{data_dir}/data_{dt_str}.txt"
+    filename = f"{data_dir}/data_{dt_str}.json"
     arduino_ports = []
 
     print('Finding arduino port...')
@@ -43,10 +42,27 @@ if __name__ == '__main__':
 
             now = datetime.now()
             timestamp = now.strftime('%H:%M:%S:%f')
-            log = f'data: {data}, timestamp: {timestamp}\n'
+
+            # parse data
+            re_str = r"(\w*:\d{1,5})"
+
+            kv = re.findall(re_str, data)
+            data_obj = {}
+            for i, s in enumerate(kv):
+                kvp = s.split(":")
+                data_obj[str(kvp[0])] = int(kvp[1])
+
+
+            print(data, data_obj)
+
+            log = {
+                **data_obj,
+                "timestamp": timestamp,
+            }
+
             log_lines.append(log)
 
-            print(log, end='')
+            print(json.dumps(log, ensure_ascii=False))
             # TODO: sync delay time with arduino via serial comm? maybe that way the
             #       data I'm reading will be formatted better and make more sense?
             time.sleep(0.05) #50ms
@@ -55,9 +71,12 @@ if __name__ == '__main__':
 
     comment = input('Enter comment for top of file:')
     with open(filename, 'w+') as f:
-        file_content = log_lines
-        if comment is not None:
-            file_content.insert(0, f'{comment}\n')
-        f.writelines(file_content)
+        file_content = {
+            "comment": comment,
+            "log": log_lines
+        }
+
+        f.writelines(json.dumps(file_content, indent=2, ensure_ascii=False))
 
     print('Wrote data log, program complete.')
+
