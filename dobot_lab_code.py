@@ -48,7 +48,7 @@ def setup():
 
 def go_home():
     """Go to the home position"""
-    magician.ptp(mode=0, x=200, y=0, z=100,  r=0)
+    magician.ptp(mode=0, x=200, y=0, z=100,  r=0)  # TODO: set the z to z_sweep?
 
 
 def do_initial_sweep():
@@ -69,7 +69,7 @@ def do_initial_sweep():
                 'time': str(time.time())
             }
             file_content.append(data)
-            time.sleep(0.5)
+            time.sleep(0.5)  # NOTE: this is 500 ms not 50, so we're getting less measurements than the arduino sends to the serial port
         print('Done measuring')
 
     def move(x,y,z,r, dest):
@@ -91,18 +91,16 @@ def do_initial_sweep():
         origin = dest
 
 
-# main code
-# TODO: maybe add __name__ == __main__ check? Would follow Python code conventions,
-#       but not sure if helpful in current context specifically.
-setup()
+if __name__ == '__main__':
+    setup()
 
-go_home() 
-do_initial_sweep()
-go_home()
+    go_home()
+    do_initial_sweep()
+    go_home()
 
-dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
-filename = f"{location}/data_{dt_str}.json"
+    dt_str = datetime.now().strftime("%d_%m_%Y_%H_%M_%S")
+    filename = f"{location}/data_{dt_str}.json"
 
-# write data to scanner data folder (see location at top of file).
-with open(filename, "w+") as f:
-    f.write(json.dumps(file_content))
+    # write data to scanner data folder (see location at top of file).
+    with open(filename, "w+") as f:
+        f.write(json.dumps(file_content))
