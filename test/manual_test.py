@@ -52,6 +52,7 @@ if __name__ == '__main__':
     # NOTE: jointAngle is bogus, I don't use it. It's just there so the simulation is the same as the real thing
     origin = {'home': {"jointAngle": [71.28, 44.09, 46.12, 4.72], "r": 0.0, "x": 200.0, "y": 0.0, "z": -20.0}}
     # TODO: read all lines after moving one leg to get all data instead of going line per line
+    # TODO: copy the code below to the code in dobot_lab_code.py so that the output for both data files is the same
     while read_data:
         try:
 
@@ -88,8 +89,6 @@ if __name__ == '__main__':
             measurements.append(measurement)
 
             print(json.dumps(measurement, ensure_ascii=False))
-            # TODO: sync delay time with arduino via serial comm? maybe that way the
-            #       data I'm reading will be formatted better and make more sense?
             time.sleep(0.05) #50ms
         except KeyboardInterrupt:
             u_in = input('User interrupted, press return to start the next movement, or interrupt again to exit the program without completing the measurements')
