@@ -42,7 +42,7 @@ def print_pose():
 
 
 def setup():
-    #set speed and acceleration to 50%
+    """sets speed and acceleration to 50%"""
     magician.motion_params(50, 50)
 
 
