@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 import re
 
-data_dir = '/Users/charise/code/robot-arm/dobot_magician_surface_mapper/test_data'
+data_dir = './test_data/dummy'
 
 z_sweep = -20
 
