@@ -51,6 +51,7 @@ if __name__ == '__main__':
     leg = 0
     # NOTE: jointAngle is bogus, I don't use it. It's just there so the simulation is the same as the real thing
     origin = {'home': {"jointAngle": [71.28, 44.09, 46.12, 4.72], "r": 0.0, "x": 200.0, "y": 0.0, "z": -20.0}}
+    # TODO: read all lines after moving one leg to get all data instead of going line per line
     while read_data:
         try:
 
