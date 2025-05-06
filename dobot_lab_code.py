@@ -48,7 +48,7 @@ def setup():
 
 def go_home():
     """Go to the home position"""
-    magician.ptp(mode=0, x=200, y=0, z=100,  r=0)  # TODO: set the z to z_sweep?
+    magician.ptp(mode=0, x=200, y=0, z=z_sweep,  r=0)
 
 
 def do_initial_sweep():
