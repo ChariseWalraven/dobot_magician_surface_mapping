@@ -75,7 +75,7 @@ if __name__ == '__main__':
             data_obj = {}
             for i, s in enumerate(kv):
                 kvp = s.split(":")
-                data_obj[str(kvp[0])] = int(kvp[1])
+                data_obj[str(kvp[0])] = kvp[1]
 
             measurement = {
                 **data_obj,
