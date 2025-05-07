@@ -4,6 +4,7 @@ import serial.tools.list_ports
 import time
 import json
 import threading
+import re
 
 from datetime import datetime
 
@@ -46,18 +47,41 @@ def do_initial_sweep(arduino: serial.Serial) -> list:
     }
 
     # TODO: read all lines after moving one leg to get all data instead of going line per line
-    # TODO: replace the code below with the code in manual_test.py so that the output for both data files is the same
     def measure(dest: dict, origin: dict, arduino: serial.Serial):
         """Measure distance while moving"""
         print('Measuring')
         while moving:
-            data = {
-                'distance_mm': arduino.readline().decode("utf-8"),
-                'dest': dest,
-                'origin': origin,
-                'time': str(time.time())
+            now = datetime.now()
+            timestamp = now.strftime('%H:%M:%S:%f')
+            
+            dest_name = list(dest.keys())[0]
+            origin_name = list(origin.keys())[0]
+            coords = coordinates[dest_name]
+
+            print(f'Moving to {dest_name} from {origin_name}')
+            print('coords:', coords)
+            
+            dest_dict = { str(dest_name):  list(coords)}
+            
+            # parse data
+            re_str = r"(\w*:\d{1,5})"
+            
+            data = arduino.readline().decode('utf-8').split('\r\n')[0]
+
+            kv = re.findall(re_str, data)
+            data_obj = {}
+            for i, s in enumerate(kv):
+                kvp = s.split(":")
+                data_obj[str(kvp[0])] = kvp[1]
+
+            measurement = {
+                **data_obj,
+                "timestamp": timestamp,
+                "dest": dest,
+                "origin": origin
             }
-            file_content.append(data)
+            
+            file_content.append(measurement)
             # delay for 50ms
             time.sleep(0.05)
         print('Done measuring')
@@ -82,17 +106,27 @@ def do_initial_sweep(arduino: serial.Serial) -> list:
 
 def connect_to_arduino() -> serial.Serial:
     arduino_ports = []
+    try_count = 0
 
     print('Finding arduino port...')
     while len(arduino_ports) <= 0:
+        if try_count >= 10:
+          raise Exception("Try count exceeded while looking for arduino port")
+        print('No ports found yet, try count:', try_count)
+        
         ports = list(serial.tools.list_ports.comports())
+        print('ports:',  [
+           ( p.device, p.description)
+            for p in serial.tools.list_ports.comports()
+        ])
 
         arduino_ports = [
             p.device
             for p in serial.tools.list_ports.comports()
-            if 'IOUSBHostDevice' in p.description
+            if 'IOUSBHostDevice' in p.description or 'Serieel USB-apparaat' in p.description  # This is apparently different per OS/language. Can it be set?
         ]
-
+        
+        try_count += 1
         time.sleep(0.5)
 
     print('found port, connecting...')
@@ -110,8 +144,8 @@ def write_data(dir_location: str, file_content, should_get_user_comment = False)
         comment = input('Enter comment for top of file:')
         file_content['comment'] = comment
 
-    with open(filename, "w+") as f:
-        f.write(json.dumps(file_content))
+    with open(filename, "w+",  encoding="utf-8") as f:
+        f.writelines(json.dumps(file_content, indent=2,  ensure_ascii=False))
 
 
 def main():
