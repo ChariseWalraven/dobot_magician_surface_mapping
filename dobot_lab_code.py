@@ -45,8 +45,7 @@ def do_initial_sweep(arduino: serial.Serial) -> list:
     origin = {
         'home': magician.get_pose()
     }
-
-    # TODO: read all lines after moving one leg to get all data instead of going line per line
+    
     def measure(dest: dict, origin: dict, arduino: serial.Serial):
         """Measure distance while moving"""
         print('Measuring')
@@ -104,7 +103,12 @@ def do_initial_sweep(arduino: serial.Serial) -> list:
         origin = dest
     return file_content
 
-def connect_to_arduino() -> serial.Serial:
+
+def do_initial_sweep_batch(arduino: serial.Serial) -> list:
+  raise Exception('Not implemented!')
+
+
+  def connect_to_arduino() -> serial.Serial:
     arduino_ports = []
     try_count = 0
 
@@ -152,7 +156,10 @@ def main():
     setup()
     go_home()
     arduino = connect_to_arduino()
-    file_content = do_initial_sweep(arduino)
+    if test_batch_sweep:
+      file_content = do_initial_sweep_batch(arduino)
+    else:
+      file_content = do_initial_sweep(arduino)
     go_home()
     write_data(location, file_content, should_get_user_comment=False)
 
