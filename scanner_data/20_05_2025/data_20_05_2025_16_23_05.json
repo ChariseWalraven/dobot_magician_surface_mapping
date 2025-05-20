@@ -1,0 +1,1565 @@
+{
+  "comment": "block in center starting position",
+  "measurements": [
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "378",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "56",
+      "duration_micros": "331",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "67",
+      "duration_micros": "394",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "58",
+      "duration_micros": "342",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "50",
+      "duration_micros": "297",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "59",
+      "duration_micros": "348",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "59",
+      "duration_micros": "348",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "50",
+      "duration_micros": "297",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "58",
+      "duration_micros": "342",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "67",
+      "duration_micros": "394",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "55",
+      "duration_micros": "325",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "95",
+      "duration_micros": "555",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "376",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "64",
+      "duration_micros": "377",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "382",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    },
+    {
+      "distance_mm": "65",
+      "duration_micros": "383",
+      "dest": {
+        "left_middle": [
+          197,
+          148,
+          -15,
+          37
+        ]
+      },
+      "origin": {
+        "right_middle": [
+          202,
+          -130,
+          -15,
+          -61
+        ]
+      }
+    }
+  ]
+}

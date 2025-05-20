@@ -1,0 +1,8925 @@
+[
+  {
+    "_μs": "573",
+    "timestamp": "17:21:39:882579",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:39:939717",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:40:000678",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:061662",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:231146",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:398786",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:566719",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:734600",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:40:903389",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:41:071175",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "timestamp": "17:21:41:238658",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:405913",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:41:527437",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:588847",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:649648",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:710464",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:771266",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:832507",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:893376",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:41:954207",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:42:015880",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:42:077247",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:137959",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:198802",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:259747",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:321011",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:381833",
+    "dest": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    },
+    "origin": {
+      "home": {
+        "jointAngle": [
+          0.0,
+          33.99,
+          63.83,
+          0.0
+        ],
+        "r": 0.0,
+        "x": 200.0,
+        "y": 0.0,
+        "z": -20.0
+      }
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:443661",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:503648",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:564402",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:625145",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:686328",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:747032",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:807772",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:868583",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:929487",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:42:990326",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:43:052418",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:43:114464",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:21:43:176597",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:238767",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:300214",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:361117",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:422423",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:483831",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:544733",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:605865",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:667355",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "556",
+    "timestamp": "17:21:43:728278",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:789057",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:21:43:849845",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:43:910834",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:43:971650",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:44:032524",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:44:093257",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:44:154339",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:44:215057",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:44:275973",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:44:336742",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:44:397457",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:44:458425",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:44:519261",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:44:580025",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:21:44:640997",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:21:44:701781",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:44:762590",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:44:823322",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:44:884094",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:44:944882",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:45:005674",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:066427",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:127348",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:188054",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:248862",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:309784",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:370522",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:431700",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:45:492511",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:45:553230",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:45:614462",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:45:675800",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "583",
+    "timestamp": "17:21:45:737238",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:45:798003",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:45:858766",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:45:919549",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:45:981435",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:042153",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:103064",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:46:163779",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:224772",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:285533",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:46:346391",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:407207",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:46:467922",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:46:528581",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:46:589556",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:46:650369",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:46:711052",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:46:771896",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:46:832908",
+    "dest": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    },
+    "origin": {
+      "bottom_right": [
+        141,
+        -126,
+        -20,
+        -42
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:46:895943",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:46:954878",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:015740",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:076659",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:137446",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:198273",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:259182",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:319977",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:380725",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:441712",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:502602",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:563421",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:624178",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:685202",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:746750",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "531",
+    "timestamp": "17:21:47:807584",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:868514",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:929328",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:47:990652",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:48:051636",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:48:113320",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:48:174281",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:48:235130",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:48:295962",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:48:357216",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:48:418034",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:48:478812",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:48:539624",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:48:600427",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:48:661352",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:48:722166",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:48:782908",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:48:843790",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:48:904625",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:48:965409",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:49:026248",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:49:086986",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:21:49:148194",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:49:209013",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:49:269790",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:49:330630",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:391705",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:452827",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:514032",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:574860",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:635690",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:49:696554",
+    "dest": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    },
+    "origin": {
+      "top_left": [
+        269,
+        155,
+        -20,
+        30
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "514",
+    "timestamp": "17:21:49:757767",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:49:818664",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:49:879970",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:49:940898",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "103",
+    "duration_μs": "601",
+    "timestamp": "17:21:50:002374",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "103",
+    "duration_μs": "601",
+    "timestamp": "17:21:50:063261",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:124821",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:185726",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:246876",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:308474",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:369292",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:430343",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:491313",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:552504",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:613781",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:674792",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:736034",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:797585",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:858439",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:50:920135",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:21:50:981251",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:51:042666",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:51:103427",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:51:164281",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "499",
+    "timestamp": "17:21:51:225104",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:285931",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:347222",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:408419",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:51:469912",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:531061",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:591820",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:652953",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:51:714397",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:775230",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:836018",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:896759",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:51:958094",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:018971",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:079863",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:52:141446",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:202267",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:263070",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:52:324234",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:52:385572",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:446870",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:21:52:508085",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:21:52:569280",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:21:52:630537",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:21:52:691465",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:21:52:752312",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:52:813210",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "103",
+    "duration_μs": "600",
+    "timestamp": "17:21:52:874016",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:52:935193",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:52:995945",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:53:056738",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:53:117538",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:53:178322",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:239155",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "514",
+    "timestamp": "17:21:53:299900",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:361498",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:422480",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:483167",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:544414",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:605750",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "514",
+    "timestamp": "17:21:53:666617",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:727457",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:788165",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:848911",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:909633",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:53:970515",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:031267",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:092306",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:21:54:153100",
+    "dest": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    },
+    "origin": {
+      "bottom_left": [
+        113,
+        142,
+        -20,
+        51
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:54:215046",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:54:275126",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:54:335989",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:397271",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:458521",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:54:519322",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:580053",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:54:640802",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:54:701652",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:54:762401",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:54:823125",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "88",
+    "duration_μs": "515",
+    "timestamp": "17:21:54:883942",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:54:945216",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:55:006329",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:55:067125",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:55:127867",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:21:55:188613",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:55:249310",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:21:55:310116",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:55:370817",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:55:431696",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "590",
+    "timestamp": "17:21:55:492863",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:55:554402",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "589",
+    "timestamp": "17:21:55:615619",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:677256",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:740251",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:801066",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:861797",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:922692",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:55:983890",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:56:044642",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:56:105511",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:56:166452",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:56:227329",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "583",
+    "timestamp": "17:21:56:288342",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:56:349443",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "584",
+    "timestamp": "17:21:56:410197",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "584",
+    "timestamp": "17:21:56:471381",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "583",
+    "timestamp": "17:21:56:532163",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:56:592953",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "590",
+    "timestamp": "17:21:56:653761",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "573",
+    "timestamp": "17:21:56:715062",
+    "dest": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    },
+    "origin": {
+      "top_right": [
+        283,
+        -111,
+        -20,
+        -21
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:21:56:778386",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "589",
+    "timestamp": "17:21:56:837080",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "584",
+    "timestamp": "17:21:56:897972",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "583",
+    "timestamp": "17:21:56:959072",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:21:57:019982",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "584",
+    "timestamp": "17:21:57:081578",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "584",
+    "timestamp": "17:21:57:142803",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:21:57:203595",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:57:264820",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:57:325763",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "91",
+    "duration_μs": "532",
+    "timestamp": "17:21:57:387841",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "590",
+    "timestamp": "17:21:57:449169",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "590",
+    "timestamp": "17:21:57:509931",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:57:571298",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:57:632488",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:57:693526",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:57:754289",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:57:815495",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:57:877504",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:57:938782",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:57:999511",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:58:060373",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:58:121943",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:183343",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:58:244237",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:305118",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:366686",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:58:427483",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:488240",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:58:549540",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:610299",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:671130",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "481",
+    "timestamp": "17:21:58:732017",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:58:792773",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "82",
+    "duration_μs": "480",
+    "timestamp": "17:21:58:853556",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:58:914603",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:58:975402",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:036166",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:59:097021",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:157826",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:218634",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:279706",
+    "dest": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    },
+    "origin": {
+      "top_middle": [
+        274,
+        20,
+        -20,
+        4
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:341746",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:401649",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:462527",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "486",
+    "timestamp": "17:21:59:523304",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:59:584111",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "83",
+    "duration_μs": "487",
+    "timestamp": "17:21:59:645100",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:59:705941",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "92",
+    "duration_μs": "538",
+    "timestamp": "17:21:59:766713",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "589",
+    "timestamp": "17:21:59:827651",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "101",
+    "duration_μs": "590",
+    "timestamp": "17:21:59:888418",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:21:59:949292",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:22:00:010257",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "98",
+    "duration_μs": "572",
+    "timestamp": "17:22:00:071140",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "89",
+    "duration_μs": "521",
+    "timestamp": "17:22:00:132000",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "89",
+    "duration_μs": "521",
+    "timestamp": "17:22:00:192769",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "89",
+    "duration_μs": "521",
+    "timestamp": "17:22:00:253750",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "89",
+    "duration_μs": "521",
+    "timestamp": "17:22:00:314684",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "89",
+    "duration_μs": "521",
+    "timestamp": "17:22:00:375625",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:22:00:436412",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "567",
+    "timestamp": "17:22:00:497185",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "97",
+    "duration_μs": "566",
+    "timestamp": "17:22:00:558055",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "103",
+    "duration_μs": "601",
+    "timestamp": "17:22:00:618978",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:00:679809",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:00:740795",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:00:801549",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:00:862428",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:00:923385",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:00:984457",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:01:045462",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:01:106628",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:01:167447",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:01:228728",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:01:289558",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:350357",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:01:411327",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:01:472196",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:533011",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:593855",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:654696",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:715633",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:01:776537",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:01:837260",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:01:898075",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:01:958888",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:019858",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:080717",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:141818",
+    "dest": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    },
+    "origin": {
+      "bottom_middle": [
+        129,
+        6,
+        -20,
+        3
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:205126",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:263911",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:324896",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:386454",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:447363",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:508362",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:569229",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:630089",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:691131",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:752065",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:812961",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:873776",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:02:934694",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:02:995891",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:056740",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:117652",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:178606",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:239659",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:300464",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:361619",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:422380",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:483137",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:544382",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:605529",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:667008",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:727939",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:788771",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:849875",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:03:910812",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:03:971817",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:04:032632",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:04:093560",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:04:154470",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "497",
+    "timestamp": "17:22:04:215395",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "498",
+    "timestamp": "17:22:04:276173",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "85",
+    "duration_μs": "500",
+    "timestamp": "17:22:04:336984",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:04:397823",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:04:458755",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:22:04:520027",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:581043",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:642257",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "100",
+    "duration_μs": "583",
+    "timestamp": "17:22:04:703752",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:764547",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:825831",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:886845",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:04:948160",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:009149",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:069949",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:130998",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:192380",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:253219",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:315054",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:375818",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "94",
+    "duration_μs": "549",
+    "timestamp": "17:22:05:436603",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "95",
+    "duration_μs": "555",
+    "timestamp": "17:22:05:498227",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:05:559293",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:22:05:620039",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:05:681080",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:05:741856",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:05:802752",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:05:863635",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:05:924513",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:05:985878",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:06:046677",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "104",
+    "duration_μs": "607",
+    "timestamp": "17:22:06:107411",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "503",
+    "timestamp": "17:22:06:168426",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  },
+  {
+    "distance_mm": "86",
+    "duration_μs": "504",
+    "timestamp": "17:22:06:229581",
+    "dest": {
+      "left_middle": [
+        197,
+        151,
+        -20,
+        37
+      ]
+    },
+    "origin": {
+      "right_middle": [
+        206,
+        -129,
+        -20,
+        -32
+      ]
+    }
+  }
+]
