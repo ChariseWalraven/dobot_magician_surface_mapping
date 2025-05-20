@@ -61,7 +61,7 @@ def parse_data(data):
 def do_initial_sweep_batch(arduino: serial.Serial) -> list:
   file_content = {
     "comment": None,
-    "measurements": None,
+    "measurements": [],
   }
   # br - tl - bl - tr - tm - bm - rm - lm
   origin = {
@@ -114,7 +114,7 @@ def do_initial_sweep_batch(arduino: serial.Serial) -> list:
     # it would be a better idea to send timestamps with the measurements from the Arduino.
     measurements = measure(dest, origin, arduino)
 
-    file_content['measurements'] = measurements
+    file_content['measurements'].append(measurements)
 
     origin = {}  # <- not sure why I did this, if the program runs the same without it, then it can be deleted.
     origin = dest
