@@ -22,7 +22,12 @@ void loop() {
   // convert distance to mm
   distance = duration/2/2.91;
 
-  Serial.println(distance);
+  Serial.print("distance_mm:");
+  Serial.print(distance);
+  Serial.print(",duration_micros:");
+  Serial.print(duration);
+  Serial.print(",");
+  Serial.println();
 
   delay(50);
 }
