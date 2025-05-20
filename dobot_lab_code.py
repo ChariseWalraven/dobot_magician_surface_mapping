@@ -12,14 +12,14 @@ from datetime import datetime
 z_sweep = -20
 location = "C:\\Users\\Gebruiker\\Desktop\\scanner_data"
 coordinates = {
-  "bottom_right": (141, -126, z_sweep, -42),
-  "top_left": (269, 155, z_sweep, 30),
-  "bottom_left": (113, 142, z_sweep, 51),
-  "top_right": (283, -111, z_sweep, -21),
-  "top_middle": (274, 20, z_sweep, 4),
-  "bottom_middle": (129, 6, z_sweep, 3),
-  "right_middle": (206, -129, z_sweep, -32),
-  "left_middle": (197, 151, z_sweep, 37),
+  "bottom_right": (143, -124, z_sweep, -41),
+  "top_left": (268, 149, z_sweep, 29),
+  "bottom_left": (134, 150, z_sweep, 49),
+  "top_right": (273, -124, z_sweep, -24),
+  "top_middle": (268, 0, z_sweep, 0),
+  "bottom_middle": (126, 6, z_sweep, 3),
+  "right_middle": (202, -130, z_sweep, -61),
+  "left_middle": (197, 148, z_sweep, 37),
 }
 test_batch_sweep = True
 should_get_user_comment = True
@@ -37,7 +37,7 @@ def setup():
 
 def go_home():
   """Go to the home position"""
-  magician.ptp(mode=0, x=200, y=0, z=z_sweep, r=0)
+  magician.ptp(mode=0, x=195, y=3, z=z_sweep, r=1)
 
 
 def move(x, y, z, r, dest_name: dict, mode=2):
@@ -106,10 +106,9 @@ def do_initial_sweep_batch(arduino: serial.Serial) -> list:
 
   for leg_name, coord in coordinates.items():
     dest = {leg_name: coord}
-    # TODO: read all lines and bin them, so we can start moving on an empty slate
+    # Read all lines but don't save them, so we can start moving on an empty slate
     arduino.readlines()
     move(*coord, leg_name)
-    # TODO: read all lines and save to file_content, for export later
     # NOTE: I've had to remove timestamps because they work when you're reading the lines one by one, but are harder to
     # manage when reading in bulk. I don't use them anywhere, so it's not a big deal. If I find they're needed in future,
     # it would be a better idea to send timestamps with the measurements from the Arduino.
@@ -120,8 +119,6 @@ def do_initial_sweep_batch(arduino: serial.Serial) -> list:
     origin = {}  # <- not sure why I did this, if the program runs the same without it, then it can be deleted.
     origin = dest
   return file_content
-
-  raise Exception('Not implemented!')
 
 
 def connect_to_arduino() -> serial.Serial:
@@ -143,8 +140,9 @@ def connect_to_arduino() -> serial.Serial:
     arduino_ports = [
       p.device
       for p in serial.tools.list_ports.comports()
+      # This is apparently different per OS & display language. Can it be set somehow from the arduino? Or can we look at some other information?
+      # Like, how does the Arduino IDE know which USB port is connected to the Arduino UNO?
       if 'IOUSBHostDevice' in p.description or 'Serieel USB-apparaat' in p.description
-      # This is apparently different per OS/language. Can it be set?
     ]
 
     try_count += 1
