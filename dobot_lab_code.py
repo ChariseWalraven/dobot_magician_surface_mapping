@@ -124,67 +124,6 @@ def do_initial_sweep_batch(arduino: serial.Serial) -> list:
   raise Exception('Not implemented!')
 
 
-def do_initial_sweep(arduino: serial.Serial) -> list:
-  file_content = []
-  # br - tl - bl - tr - tm - bm - rm - lm
-  origin = {
-    'home': magician.get_pose()
-  }
-
-  def measure(dest: dict, origin: dict, arduino: serial.Serial):
-    """Measure distance while moving"""
-    print('Measuring')
-    while moving:
-      now = datetime.now()
-      timestamp = now.strftime('%H:%M:%S:%f')
-
-      dest_name = list(dest.keys())[0]
-      origin_name = list(origin.keys())[0]
-      coords = coordinates[dest_name]
-
-      print(f'Moving to {dest_name} from {origin_name}')
-      print('coords:', coords)
-
-      dest_dict = {str(dest_name): list(coords)}
-
-      # parse data
-      re_str = r"(\w*:\d{1,5})"
-
-      data = arduino.readline().decode('utf-8').split('\r\n')[0]
-
-      kv = re.findall(re_str, data)
-      data_obj = {}
-      for i, s in enumerate(kv):
-        kvp = s.split(":")
-        data_obj[str(kvp[0])] = kvp[1]
-
-      measurement = {
-        **data_obj,
-        "timestamp": timestamp,
-        "dest": dest,
-        "origin": origin
-      }
-
-      file_content.append(measurement)
-      # delay for 50ms
-      time.sleep(0.05)
-    print('Done measuring')
-
-  for key, coord in coordinates.items():
-    dest = {key: coord}
-    # Start a thread so we can read sensor data and move at the same time
-    t = threading.Thread(target=measure, args=(dest, origin, arduino))
-    moving = True  # Needed for measure function (above), do not delete
-    t.start()
-    move(*coord, key)
-    moving = False
-    t.join()
-
-    origin = {}  # <- not sure why I did this, if the program runs the same without it, then it can be deleted.
-    origin = dest
-  return file_content
-
-
 def connect_to_arduino() -> serial.Serial:
   arduino_ports = []
   try_count = 0
@@ -234,10 +173,7 @@ def main():
   setup()
   go_home()
   arduino = connect_to_arduino()
-  if test_batch_sweep:
-    file_content = do_initial_sweep_batch(arduino)
-  else:
-    file_content = do_initial_sweep(arduino)
+  file_content = do_initial_sweep_batch(arduino)
   go_home()
   write_data(location, file_content, should_get_user_comment=should_get_user_comment)
 
