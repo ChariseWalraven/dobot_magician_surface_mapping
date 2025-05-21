@@ -47,6 +47,8 @@ def transform_json_to_flat_csv(fp: Path):
 
     # clean up return characters in distance measurement
     df['distance_mm'] = df.loc[:, 'distance_mm'].transform(lambda x: x if len(x) == 0 else x.split('\r')[0])
+    if 'duration_micros' in df.columns.tolist():
+        df['duration_micros'] = df.loc[:, 'distance_mm'].transform(lambda x: x if len(x) == 0 else x.split('\r')[0])
 
     df.to_csv(dfp, index=False)
 
