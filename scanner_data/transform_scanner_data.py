@@ -57,15 +57,26 @@ if __name__ == '__main__':
     # get all file_paths in scanner data dir
     scanner_data_root = Path('./scanner_data')
     # get all json files in all subdirectories in directory 'scanner_data'
-    # NOTE: we're assuming all the subdirectories contain data files,
-    #       and all the files are json and in the same format.
+    # NOTE: we're assuming all the subdirectories contain data files
+    # Exclude these files:
+    excluded_files = [
+        'scanner_data/20_05_2025/data_20_05_2025_14_52_28.json',
+        'scanner_data/20_05_2025/data_20_05_2025_14_44_09.json',
+    ]
+
+    excluded_dirs = [
+        'scanner_data/07_05_2025',
+        'scanner_data/23_04_2025',
+        'scanner_data/06_02_2025',
+        'scanner_data/12_02_2025'
+    ]
 
     # get all subdirectories in root data directory
-    scanner_data_dirs = [d for d in scanner_data_root.iterdir() if d.is_dir()]
+    scanner_data_dirs = [d for d in scanner_data_root.iterdir() if d.is_dir() if str(d) not in excluded_dirs]
 
     # get all json files in all subdirectories
     scanner_data_files = [f for d in scanner_data_dirs for f in d.iterdir() if
-                          f.is_file() and str(f).endswith('.json')]
+                          f.is_file() and str(f).endswith('.json') and str(f) not in excluded_files]
 
     print(f'Transforming {len(scanner_data_files)} files.')
     for (i, scanner_file) in enumerate(scanner_data_files):
